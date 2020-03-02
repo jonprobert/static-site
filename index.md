@@ -16,7 +16,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
   
-  ![GitHub Logo](/images/logo.png)
+  ![GitHub Logo](/comp.png)
 Format: ![Alt Text](url)
   
   I think you should use an
